@@ -8,7 +8,7 @@ XM Golang Exercise - v21.0.0
 
 ## How to run
 
-Create table inm pgAdmin using script in query tools :
+Create table in pgAdmin using script in query tools :
 ```
 CREATE TABLE Company
 (
